@@ -14,9 +14,3 @@ For any takedowns/ site requests, please make an issue.
 I will happily oblige if the request is reasonable.
 
 
-# Disclaimer
-I program as a hobby, so I am quite bad at this.
-
-I am learning by the second.
-
-
